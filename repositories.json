@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "agid-related-repositories-v0.1",
+  "repository": "agid-asia-south-asia-index",
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-in",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "IN",
+      "countryName": "India",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for India; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-pk",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "PK",
+      "countryName": "Pakistan",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Pakistan; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-bd",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "BD",
+      "countryName": "Bangladesh",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Bangladesh; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-lk",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "LK",
+      "countryName": "Sri Lanka",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Sri Lanka; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-af",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "AF",
+      "countryName": "Afghanistan",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Afghanistan; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-np",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "NP",
+      "countryName": "Nepal",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Nepal; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-bt",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "BT",
+      "countryName": "Bhutan",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Bhutan; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-mv",
+      "kind": "country-parent",
+      "region": "south_asia",
+      "countryCode": "MV",
+      "countryName": "Maldives",
+      "parentRepository": "agid-asia-south-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Maldives; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    }
+  ]
+}

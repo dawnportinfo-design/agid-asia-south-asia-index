@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "agid-index-repository-manifest-v0.1",
+  "repository": "agid-asia-south-asia-index",
+  "kind": "region-index",
+  "owner": "dawnportinfo-design",
+  "canonicalContinent": "asia",
+  "region": "south_asia",
+  "stage": "wave-0-index",
+  "dataReady": true,
+  "sourcePlanVersion": "agid-asia-repository-creation-plan-v1",
+  "generatedAt": "2026-06-29T04:53:08.138Z",
+  "privacy": {
+    "rawAddressStorage": false,
+    "recipientStorage": false,
+    "precisePrivateCoordinates": false,
+    "witnessMaterial": false,
+    "privateKeys": false
+  },
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-in",
+      "kind": "country-parent",
+      "countryCode": "IN",
+      "countryName": "India",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-pk",
+      "kind": "country-parent",
+      "countryCode": "PK",
+      "countryName": "Pakistan",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-bd",
+      "kind": "country-parent",
+      "countryCode": "BD",
+      "countryName": "Bangladesh",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-lk",
+      "kind": "country-parent",
+      "countryCode": "LK",
+      "countryName": "Sri Lanka",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-af",
+      "kind": "country-parent",
+      "countryCode": "AF",
+      "countryName": "Afghanistan",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-np",
+      "kind": "country-parent",
+      "countryCode": "NP",
+      "countryName": "Nepal",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-bt",
+      "kind": "country-parent",
+      "countryCode": "BT",
+      "countryName": "Bhutan",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-mv",
+      "kind": "country-parent",
+      "countryCode": "MV",
+      "countryName": "Maldives",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    }
+  ]
+}
